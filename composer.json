@@ -1,12 +1,12 @@
 {
-    "name": "caffeinated/modules",
+    "name": "atriakit/modules",
     "description": "Laravel 5 Modules",
     "keywords": ["modules", "laravel", "caffeinated"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Shea Lewis",
-            "email": "shea.lewis89@gmail.com"
+            "name": "AtriaKit",
+            "email": "atriakit@gmail.com"
         }
     ],
     "require": {
